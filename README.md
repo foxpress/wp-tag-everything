@@ -1,0 +1,2 @@
+# wp-tag-everything
+plugin
